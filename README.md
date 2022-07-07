@@ -1,1 +1,1 @@
-# distributed-golang-app-with-rabbitmq
+# Distributed Application with Golang and Rabbitmq
